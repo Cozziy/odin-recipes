@@ -4,8 +4,16 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Odin Recipes</title>
+
 </head>
 <body>
-    Welcome to Odin Recipes
+    <h1>Odin Recipes:</h1>
+    <p><ul>
+    <li><a href="recipes/boilled-eggs.html">Boiled Eggs</a></li>
+    <li><a href="recipes/kale-pineapple-smoothie.htm">Kale Pineapple Smoothie</a></li>
+    <li><a href="recipes/kale-avocado-smoothie.html">Kale Avocado Smoothie</a></li>
+    <li><a href="recipes/fruity-smoothie.html">Fruity Smoothie</a></li>
+    <li><a href="recipes/fruit-veggie-smoothie.html">Fruit Veggie Smoothie</a></li>
+    </ul></p>
 </body>
 </html>
